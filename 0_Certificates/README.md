@@ -1,3 +1,3 @@
 #sololearn
 #NDG Linux
-#First day Github - Screenshot
+#Git training certificate
